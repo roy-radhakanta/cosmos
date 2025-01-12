@@ -15,8 +15,9 @@
 
 # Cosmos
 
-Express based multi DB REST API framework, for initial setup with builtin JWT authentication
-that excels your initial project setup.
+Accelerate your development process with our Express-powered REST API framework. Built to eliminate repetitive boilerplate code, it comes with pre-configured JWT authentication and multi-database support, so you can skip the setup hassle and focus entirely on your core logic.
+
+Streamline your workflow and start building smarter, faster, and more efficiently.
 
 ## Features
 
@@ -38,6 +39,11 @@ that excels your initial project setup.
     ```bash
     ./start-initial-setup.sh
     ```
+###### if you face permission issue🆘
+run this command:
+```bash
+chmod +x start-initial-setup.sh
+```
 
 3. Fill required config in `./config/settings.js`
 

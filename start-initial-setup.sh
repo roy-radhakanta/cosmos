@@ -12,6 +12,7 @@ echo "
                        \|_________|                       \|_________|
                                                                       
                                                                       
+
 "
 
 echo "Installing dependencies..."
