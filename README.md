@@ -25,7 +25,7 @@ Streamline your workflow and start building smarter, faster, and more efficientl
 - Builtin signup
 - Forgot password
 - Refresh token generation
-- Nodemailer integration
+- Nodemailer integration(default template for welcome email, forgot password)
 - MongoDB integration
 
 ## How to Setup
