@@ -21,8 +21,8 @@ Streamline your workflow and start building smarter, faster, and more efficientl
 
 ## Features
 
-- Builtin login
-- Builtin signup
+- Built in login
+- Built in signup
 - Forgot password
 - Refresh token generation
 - Nodemailer integration(default template for welcome email, forgot password)
